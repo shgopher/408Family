@@ -129,3 +129,20 @@
 ### 组成原理
 - [0.1+0.2不等于0.3问题](./组成原理/0.1+0.2问题.md)
 ### 正则表达式
+
+### 关注我
+
+- 头条@[科科人神](https://www.toutiao.com/c/user/token/MS4wLjABAAAAIGeO1-kCUelF-G8GW3AvJlrEL7tiO24WHJmnX4nV1bs/)
+
+![p](./toutiao.png)
+
+- 微信公众号@科科人神
+
+![p](./wechat.jpg)
+
+- b站@[科科人神](https://space.bilibili.com/478621088)
+
+### 作者的计算机知识项目
+- [GOFamily](https://github.com/shgopher/GOFamily) :go语言从入门到熟练掌握 
+- [408Family](https://github.com/shgopher/408Family) : 算法和数据结构,设计模式，正则表达式，网络，操作系统，计算机组
+- [coder](https://github.com/shgopher/coder) : 关注程序员的职业发展，会分享比如如何升迁，如何面试，如何赚钱等知识。
